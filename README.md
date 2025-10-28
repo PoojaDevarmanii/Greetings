@@ -9,3 +9,5 @@ Perfect for testing GitHub setup and understanding basic version control with Gi
 - Demonstrates function definition and input/output
 - Ideal for testing Git + GitHub workflow
 
+## git clone https://github.com/PoojaDevarmanii/Greetings
+
